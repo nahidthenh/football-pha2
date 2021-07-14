@@ -101,3 +101,43 @@ body{
 	font-size: 16px;
 	line-height: 26px;
 }
+
+
+
+
+
+
+
+
+/* Footer area  */
+.footer-wrap {
+	text-align: center;
+	padding: 50px 0px;
+}
+.footer-logo {
+	margin-right: 30px;
+}
+.footer-logo img {
+	width: 400px;
+	height: 110px;
+}
+.footer-social-icon {
+	padding: 20px 0px;
+}
+.footer-social-icon a {
+    text-decoration: none;
+}
+.footer-social-icon a i {
+	margin: 0px 14px;
+	font-size: 20px;
+	color: #969BAB;
+    background: #E7E7E8;
+	padding: 8px;
+	border-radius: 50%;
+	text-align: center;
+}
+.copy-right {
+	font-size: 18px;
+	color: #000;
+	margin-top: 10px;
+}
